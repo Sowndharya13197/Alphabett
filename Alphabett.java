@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Alphabet {
+public class Alphabett{
     public static void main(String args[])
     {System.out.println("entr char");
     Scanner s=new Scanner(System.in);
